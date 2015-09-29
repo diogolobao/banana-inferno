@@ -92,6 +92,9 @@ public:
         this->v -= 1;
     }
 
+    /**
+    Chamada para dar uma tacada nesta bola.
+    */
     void Tacada()
     {
         int angulo,velocidade;
